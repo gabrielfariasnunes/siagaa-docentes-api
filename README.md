@@ -10,7 +10,7 @@ GET http://127.0.0.1:9090/pesquisar/nome
 npm run start
 ```
 
-#### Pacote encontrado
+#### Sucesso: Resultado
 
 ```json
 [
