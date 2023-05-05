@@ -1,3 +1,9 @@
+#### Variaveis de ambiente:
+```h
+PORT=9090
+SESSION=JSESSIONID=CD7E1F2C18F40A028249B0624A08E0F1.jatoba2
+```
+
 #### Requisição:
 
 ```h
